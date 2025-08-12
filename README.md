@@ -17,5 +17,6 @@ Our vision is to provide a **secure, censorship-resistant, and permanent** stora
 - Integrate with **front-end DApps** for easier encryption/decryption in the browser.
 
 ## 5. Contract Address
+Contract Address-ST2FXEQXH2CHAJFWCJZPMS5KR3JRMCP66NF5NWEG1.On-Chain-Notes-App
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/043cec55-2d56-4fde-9fdc-fbbb42529ed5" />
 
